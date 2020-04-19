@@ -215,7 +215,7 @@
           },
           "spe": {
             "value": 0,
-            "ability": ""
+            "ability": "int"
           },
           "spl": {
             "value": 0,
